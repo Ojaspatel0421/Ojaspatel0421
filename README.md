@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ojaspatel0421
 - 👀 I’m interested in Robotics, Backend Devlopment.
-- 🌱 I’m currently learning App Devlopment using Flutter. 
+- 🌱 I’m currently learning ____. 
 - 📫 How to reach me ojaspatel2104@gmail.com
